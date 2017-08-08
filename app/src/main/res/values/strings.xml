@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">kotlinTest</string>
+    <string name="forgetPassword">忘记密码</string>
+    <string name="new_registered">新用户注册</string>
+</resources>
