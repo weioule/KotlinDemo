@@ -13,11 +13,6 @@ object ToastUtils {
 
     private var sToast: Toast? = null
 
-    /**
-     * 强大的吐司，能够连续弹的吐司
-     * @param text
-     */
-
     fun showToast(context: Context?, msg: String) {
         if (context == null) return
         if (sToast == null) {

@@ -22,6 +22,8 @@
             android:name=".LoginActivity"
             android:windowSoftInputMode="adjustPan|stateHidden" />
 
+        <activity android:name=".dsssd" />
+
     </application>
 
 </manifest>
